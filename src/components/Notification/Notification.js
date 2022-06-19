@@ -3,6 +3,7 @@ import "./Notification.scss";
 function Notification(props) {
   return (
     <div className="notifications">
+      <img src={"./Assets/images/icon.png"} />
       <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="24" cy="24" r="24" fill="#F9F9F9" />
         <path d="M18 14L15 18V32C15 32.5304 15.2107 33.0391 15.5858 33.4142C15.9609 33.7893 16.4696 34 17 34H31C31.5304 34 32.0391 33.7893 32.4142 33.4142C32.7893 33.0391 33 32.5304 33 32V18L30 14H18Z" stroke="#222224" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />

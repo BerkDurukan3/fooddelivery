@@ -11,8 +11,8 @@ function Header() {
       <NavigationMenu></NavigationMenu>
       <div className="actions centered">
         <Notification></Notification>
-        <ActionButton className={"register"} name={"Register"}></ActionButton>
-        <ActionButton className={"login"} name={"Login"}></ActionButton>
+        <ActionButton className={"register"} text={"Register"}></ActionButton>
+        <ActionButton className={"login"} text={"Login"}></ActionButton>
       </div>
     </div>
   );
