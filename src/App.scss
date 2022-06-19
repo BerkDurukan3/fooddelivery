@@ -1,0 +1,32 @@
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.actions-font {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.font {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.main-container {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.body-container{
+  width:100px;
+  height:586px;
+  
+}
