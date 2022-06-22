@@ -5,24 +5,21 @@
 }
 
 .actions-font {
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 16px;
+  font-family: "Poppins" !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
 }
 
 .font {
-  font-family: "Montserrat";
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
 }
 
 .main-container {
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding: 40px 100px;
 }
 
 .content-container {
@@ -43,3 +40,4 @@
   justify-content: flex-start;
   gap: 40px;
 }
+

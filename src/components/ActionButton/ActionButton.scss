@@ -1,6 +1,7 @@
 .action-btn {
   border-radius: 41px;
   padding: 16px 30px;
+  gap:10px;
 }
 
 .login {
@@ -21,4 +22,12 @@
 .how-to-order {
   border: 1px solid #ec994b;
   color: #ec994b;
+}
+
+.hide{
+  display:none;
+}
+
+.show{
+  display: block;
 }
